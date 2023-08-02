@@ -1,3 +1,1 @@
-n = int(input("N = "))
-
-print(n)
+print("kalamush")
